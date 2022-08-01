@@ -15,7 +15,7 @@ public class MessageResource {
 
     }
 
-    @GetMapping("/simpleMessageLogin")
+    @GetMapping("/login")
     public String login(@RequestParam(value = "user") String user, @RequestParam(value = "password") String password) {
         if (user.isEmpty() || password.isEmpty()) {
             return "USUÁRIO E SENHA NÃO INFORMADOS";
