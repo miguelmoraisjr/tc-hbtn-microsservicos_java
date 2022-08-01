@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping(value = "/messages")
-public class HelloWordResource {
+public class HelloWorldResource {
 
     @GetMapping("/home")
     public String home() {
