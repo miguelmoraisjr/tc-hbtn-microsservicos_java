@@ -1,0 +1,16 @@
+O que é Spring Framework?
+- Spring Framework é um framework desenvolvido para a plataforma Java baseado nos padrões de projetos (Design Patterns), inversão de controle e injeção de dependência. É constituído por diversos e completos módulos capazes de dar um boost na aplicação Java.
+
+Quais são os benefícios e recursos que Spring Boot fornece?
+- O Spring Boot facilita bastante a criação de aplicações Java que utilizam o ecossistema Spring com pouca ou nenhuma configuração para executar o projeto. Ele abstrai toda a complexidade que uma configuração completa pode trazer (“just run” 😍).
+
+Esse módulo do Spring Framework foi desenvolvido com base na ideia de convenção sobre configuração. Ou seja, apenas utilizar submódulos necessários sem preocupação com o trabalho de configuração do spring.
+
+Como é feita a adição de novas dependências (JPA, Hibernate, etc…) ?
+- Usando o maven através do arquivo pom.xml
+
+Na sua opinião, qual é a melhor IDE para trabalhar com o Spring Boot: Spring Tools Suites, IntelliJ IDEA, Eclipse ou NetBeans ?
+- Intellij 
+
+O que é Spring Initializr?
+- SPRING INITIALIZR fornece uma interface web bem simples para o usuário. Podendo gerar seu projeto a partir de uma estrutura de configurações pré-moldadas. São configurações de versões do java/spring boot, grupo/nome do projeto, série de lista de dependências e etc.
