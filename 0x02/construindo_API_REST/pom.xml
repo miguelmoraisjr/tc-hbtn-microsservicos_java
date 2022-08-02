@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>construindo_API_REST</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>construindo_API_REST</name>
+	<name>SongAPI</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
