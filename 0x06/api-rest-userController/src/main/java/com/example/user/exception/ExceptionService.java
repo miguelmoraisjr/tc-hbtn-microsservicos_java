@@ -1,4 +1,4 @@
-package com.example.user.controller;
+package com.example.user.exception;
 
 import com.example.user.exception.CPFException;
 import com.example.user.exception.UserErrorResponse;
