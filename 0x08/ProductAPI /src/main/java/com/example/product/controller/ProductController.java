@@ -23,7 +23,7 @@ public class ProductController {
     @Autowired
     private ProductRepository productRepository;
 
-    @ApiOperation(value = "Responsável por retornar uma mensagem de boas vindas", response = String.class)
+    @ApiOperation(value = "- Responsável por retornar uma mensagem de boas vindas", response = String.class)
     @ApiResponses(value = {
             @ApiResponse(code = 200, message = "Ok"),
             @ApiResponse(code = 401, message = "Unauthorized"),
